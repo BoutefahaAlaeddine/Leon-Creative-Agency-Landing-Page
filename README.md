@@ -6,9 +6,13 @@
 
 ## 📸 Preview
 
+| Preview 1 | Preview 2 |
+|---|---|
+| ![](imageGithub/1.png) | ![](imageGithub/2.png) |
 
-
- ![Preview 1](imageGithub/1.png)  ![Preview 2](imageGithub/2.png)
+| Preview 3 | Preview 4 |
+|---|---|
+| ![](imageGithub/3.png) | ![](imageGithub/4.png) |
 
 ---
 
