@@ -1,6 +1,6 @@
 # Leon — Creative Agency Landing Page
 
-> A clean, minimal **single-page agency website** built with pure **HTML5** and **CSS3** — no frameworks, no build tools, no dependencies. Features CSS custom properties for instant theming, a custom hover-animated hamburger menu, CSS Grid layout for all sections, and smooth scroll navigation.
+🌐 Websites. A clean, minimal **single-page agency website** built with pure **HTML5** and **CSS3** — no frameworks, no build tools, no dependencies. Features CSS custom properties for instant theming, a custom hover-animated hamburger menu, CSS Grid layout for all sections, and smooth scroll navigation.
 
 ---
 
